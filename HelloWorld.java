@@ -3,6 +3,7 @@ public class HelloWorld {
     System.out.println("I");
     System.out.println("You");
     System.out.println("Love");
+    System.out.println("-");
     System.out.println("Nana");
   }
 }
